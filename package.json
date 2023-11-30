@@ -1,0 +1,19 @@
+{
+  "name": "automation_ecom_saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.1"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
